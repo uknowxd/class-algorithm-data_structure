@@ -1,5 +1,5 @@
 import random
-import replit
+import replit # Work For Replit
 player_name = str(input('กรุณาใส่ชื่อของท่าน : '))
 item = ['Iphone' , 'Macbook' , 'IPad' , 'R37']
 inventory_player = []
