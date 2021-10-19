@@ -7,3 +7,5 @@ elif car_size >= 1800 and car_size < 2500 :
     print('ภาษี 1500 บาท')
 else :
     print('ภาษี 2000 บาท')
+
+# คำนวณภาษี

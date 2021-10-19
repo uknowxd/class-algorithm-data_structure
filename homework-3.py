@@ -5,3 +5,4 @@ while True:
          break
      else:
         print('It worng number')
+#สร้างเงื่อนไข ถ้า มากกว่าให้แสดง That right
